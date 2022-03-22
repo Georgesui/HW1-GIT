@@ -1,3 +1,19 @@
+1e94fb1 (HEAD -> master) HEAD@{0}: merge develop: Merge made by the 'ort' strategy.
+ba939ad HEAD@{1}: checkout: moving from 8d610ac43ce00462495e3b6545e713f472a609cd to master
+8d610ac HEAD@{2}: commit: updated master
+6eaae0f HEAD@{3}: rebase (pick): adding margin-left
+ba939ad HEAD@{4}: rebase (start): checkout master
+faa510d (feature4, develop) HEAD@{5}: checkout: moving from master to develop
+ba939ad HEAD@{6}: checkout: moving from b2dcaaab43a8e929d7d3b4e59cd46385e6aee8b0 to master
+b2dcaaa HEAD@{7}: commit: updated logs_part1.txt
+4ea88f6 HEAD@{8}: merge develop: Merge made by the 'ort' strategy.
+051e0a5 HEAD@{9}: commit: updadted
+df9e6ae HEAD@{10}: rebase (pick): adding margin-left
+ba939ad HEAD@{11}: rebase (start): checkout master
+faa510d (feature4, develop) HEAD@{12}: rebase (continue) (finish): returning to refs/heads/feature4
+faa510d (feature4, develop) HEAD@{13}: checkout: moving from master to develop
+ba939ad HEAD@{14}: checkout: moving from develop to master
+faa510d (feature4, develop) HEAD@{15}: checkout: moving from develop to develop
 b2c7254 (HEAD -> master) HEAD@{0}: commit: adding logs_part1.txt
 6932d40 (feature2, feature1, develop) HEAD@{1}: merge develop: Fast-forward
 40de6d1 HEAD@{2}: checkout: moving from feature2 to master
