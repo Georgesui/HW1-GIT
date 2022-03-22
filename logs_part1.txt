@@ -1,0 +1,11 @@
+b2c7254 (HEAD -> master) HEAD@{0}: commit: adding logs_part1.txt
+6932d40 (feature2, feature1, develop) HEAD@{1}: merge develop: Fast-forward
+40de6d1 HEAD@{2}: checkout: moving from feature2 to master
+6932d40 (feature2, feature1, develop) HEAD@{3}: merge develop: Fast-forward
+eb2441e HEAD@{4}: checkout: moving from feature1 to feature2
+6932d40 (feature2, feature1, develop) HEAD@{5}: merge develop: Fast-forward
+534228c HEAD@{6}: checkout: moving from develop to feature1
+6932d40 (feature2, feature1, develop) HEAD@{7}: merge feature2: Merge made by the 'ort' strategy.
+534228c HEAD@{8}: merge feature1: Fast-forward
+5d24e34 HEAD@{9}: checkout: moving from feature2 to develop
+eb2441e HEAD@{10}: commit: adding styles
